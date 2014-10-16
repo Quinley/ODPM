@@ -1,19 +1,50 @@
 #survIcon{
-	padding-left: 100px;
-	float:right;
 
 }
 #footer{
 	text-align: center;
 }
-.col-xs-6{
-	
-	vertical-align: middle;
+.col-md-6{
+	/*border:1px solid red;*/ 
+	position: relative;
 
 }
 .col-xs-12{
 	
 }
 #info{
-	float:right;
+	/*float:right;*/
+}
+.btn{
+	margin-top: 10px;
+}
+
+#sign{
+	width: 50%;
+
+}
+h1{
+	color: white;
+}
+img{
+	border-radius: 50px;
+}
+#acc{
+	/*border: 1px solid black;*/
+	background-color: #000066;
+	padding-left: 30px;
+}
+.account-wall{
+	margin-left: 10px;
+	width: 80%;
+}
+.row{
+	/*border :2px solid blue;*/
+}
+.text{
+	text-align: center;
+	margin-top: 10px;
+	color: blue;
+	font-size: 20px;
+	font-family: sans-serif;
 }
