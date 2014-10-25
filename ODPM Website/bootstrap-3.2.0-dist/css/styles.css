@@ -1,6 +1,4 @@
-#survIcon{
 
-}
 #footer{
 	text-align: center;
 }
@@ -12,9 +10,7 @@
 .col-xs-12{
 	
 }
-#info{
-	/*float:right;*/
-}
+
 .btn{
 	margin-top: 10px;
 }
@@ -27,7 +23,11 @@ h1{
 	color: white;
 }
 img{
-	border-radius: 50px;
+	border-radius: 10px;
+}
+#logo{
+	
+	width: 35%;
 }
 #acc{
 	/*border: 1px solid black;*/
@@ -38,9 +38,7 @@ img{
 	margin-left: 10px;
 	width: 80%;
 }
-.row{
-	/*border :2px solid blue;*/
-}
+
 .text{
 	text-align: center;
 	margin-top: 10px;
@@ -48,3 +46,4 @@ img{
 	font-size: 20px;
 	font-family: sans-serif;
 }
+/*Forms*/
